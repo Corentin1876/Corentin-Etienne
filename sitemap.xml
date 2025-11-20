@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://corentin-etienne.fr/</loc>
+    <loc>https://corentin1876.github.io/Corentin-Etienne/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://corentin-etienne.fr/#accueil</loc>
+    <loc>https://corentin1876.github.io/Corentin-Etienne/#accueil</loc>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://corentin-etienne.fr/#apropos</loc>
+    <loc>https://corentin1876.github.io/Corentin-Etienne/#apropos</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://corentin-etienne.fr/#projets</loc>
+    <loc>https://corentin1876.github.io/Corentin-Etienne/#projets</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://corentin-etienne.fr/#contact</loc>
+    <loc>https://corentin1876.github.io/Corentin-Etienne/#contact</loc>
     <priority>0.8</priority>
   </url>
 </urlset>

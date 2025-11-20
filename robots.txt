@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://corentin-etienne.fr/sitemap.xml
+Sitemap: https://corentin1876.github.io/Corentin-Etienne/sitemap.xml
